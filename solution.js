@@ -129,3 +129,4 @@ function findRoom(e) {
     changeContent('guest-details-form-content');
 
 }
+}
